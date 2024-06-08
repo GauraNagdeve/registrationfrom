@@ -1,4 +1,10 @@
 h1{
     text-align: center;
-    color: green;
+    text-shadow: blue 100px;
+    top: 100px;
+    
+}
+.container h1{
+    background-color: aqua;
+    
 }
